@@ -1,6 +1,10 @@
+<div align="center">
+  <img align="center" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif" />
+  </div>
+
+
 <h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
 <h3 align="center">Blockchain Enthusiast</h3>
-<img align="right" src="https://cdn-galgk.nitrocdn.com/eWYpNSqDToNXmwTaRFsxxdJHggjXnETi/assets/static/optimized/wp-content/uploads/2022/05/5619588bdbcb4482ff928274fb80f0a2.programmer-animation.gif" alt="muddi00seven" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muddi00seven&label=Profile%20views&color=0e75b6&style=flat" alt="muddi00seven" /> </p>
 
@@ -35,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muddi00seven&show_icons=true&locale=en" alt="muddi00seven" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddi00seven&" alt="muddi00seven" /></p>
+
