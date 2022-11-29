@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
 <h3 align="center">Blockchain Enthusiast</h3>
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fverisoft.ai%2F&psig=AOvVaw3jUghLHINUtEGtd2KLofZR&ust=1669809927570000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjE3-6s0_sCFQAAAAAdAAAAABAF" alt="muddi00seven" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muddi00seven&label=Profile%20views&color=0e75b6&style=flat" alt="muddi00seven" /> </p>
 
