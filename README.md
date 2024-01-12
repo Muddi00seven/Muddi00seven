@@ -20,8 +20,6 @@
 
 - 💬 Ask me about **Web3, Smart Contracts ,React, Serverless, NodeJs**
 
-- 📫 How to reach me **mudassir00seven@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mudassir-khan-84a91415b/](https://www.linkedin.com/in/mudassir-khan-84a91415b/)
 
 <h3 align="left">Connect with me:</h3>
