@@ -1,40 +1,287 @@
 <div align="center">
-  <img align="center" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif" />
-  </div>
 
+  <img src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif" width="360" alt="Developer working with modern technology" />
 
-<h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
-<h3 align="center">Blockchain Enthusiast</h3>
+  <h1>Mudassir Khan</h1>
+  <h3>AI-Native Full-Stack Engineer · Web3 Builder · Systems Thinker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muddi00seven&label=Profile%20views&color=0e75b6&style=flat" alt="muddi00seven" /> </p>
+  <p>
+    Designing intelligent digital products at the intersection of
+    <strong>AI</strong>, <strong>distributed systems</strong>,
+    <strong>Web3</strong>, and <strong>modern web engineering</strong>.
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muddi00seven" alt="muddi00seven" /></a> </p>
+  <p>
+    <a href="https://mudassirkhan.me/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mudassir-khan-84a91415b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://bmd-apes-minting.web.app"><img src="https://img.shields.io/badge/Live_Project-Explore-00C7B7?style=for-the-badge&logo=firebase&logoColor=white" alt="Live project" /></a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=muddi00seven&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/muddi00seven?label=FOLLOWERS&style=flat-square&color=0e75b6" alt="GitHub followers" />
+  </p>
 
-- 🔭 I’m currently working on [Web3, Smart Contracts, React JS](https://bmd-apes-minting.web.app)
+</div>
 
-- 🌱 I’m currently learning **Rust & APTOS**
+---
 
-- 👨‍💻 All of my projects are available at [https://buildmydapp.co/](https://buildmydapp.co/)
+## `> whoami`
 
-- 💬 Ask me about **Web3, Smart Contracts ,React, Serverless, NodeJs**
+```typescript
+const developer = {
+  name: "Mudassir Khan",
+  role: "AI-Native Full-Stack & Web3 Engineer",
+  location: "Pakistan",
+  mindset: ["Build", "Measure", "Learn", "Iterate"],
+  currentFocus: [
+    "AI-powered product experiences",
+    "Scalable full-stack architectures",
+    "Smart contracts and decentralized applications",
+    "Agentic workflows and developer automation",
+  ],
+  learning: [
+    "Rust",
+    "Applied cryptography",
+    "LLM orchestration",
+    "Advanced EVM patterns",
+    "Distributed systems",
+  ],
+};
+```
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mudassir-khan-84a91415b/](https://www.linkedin.com/in/mudassir-khan-84a91415b/)
+I build products that combine reliable engineering with thoughtful user experience. My work spans frontend systems, backend architecture, cloud infrastructure, smart contracts, and AI-assisted workflows.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mudassir-khan-84a91415b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudassir-khan-84a91415b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muddi00seven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muddi00seven" height="30" width="40" /></a>
-<a href="https://discord.gg/3377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3377" height="30" width="40" /></a>
-</p>
+I am especially interested in transforming complex technologies into products that feel fast, intuitive, secure, and useful.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muddi00seven&show_icons=true&locale=en&layout=compact" alt="muddi00seven" /></p>
+## Engineering Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muddi00seven&show_icons=true&locale=en" alt="muddi00seven" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI-Native Systems</h3>
+      <p>Building context-aware applications using LLM orchestration, retrieval pipelines, structured outputs, tool calling, and intelligent workflow automation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⛓️ Web3 Engineering</h3>
+      <p>Developing decentralized applications, wallet-based experiences, smart contract integrations, token systems, and EVM-compatible product flows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Full-Stack Platforms</h3>
+      <p>Creating scalable applications with modern React architecture, typed APIs, server-side rendering, event-driven services, and modular backend systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & Infrastructure</h3>
+      <p>Designing serverless backends, containerized services, CI/CD pipelines, observability layers, and cloud-native deployment workflows.</p>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddi00seven&" alt="muddi00seven" /></p>
+---
 
+## Technology Matrix
+
+### Core Engineering
+
+<p><img src="https://skillicons.dev/icons?i=typescript,javascript,rust,solidity,nodejs,nextjs,react,nestjs&perline=8" alt="Core engineering technologies" /></p>
+
+### Data, APIs & State
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql,redux,firebase,supabase,prisma&perline=8" alt="Data and API technologies" /></p>
+
+### Infrastructure & Tooling
+
+<p><img src="https://skillicons.dev/icons?i=docker,aws,azure,vercel,linux,git,github,githubactions&perline=8" alt="Infrastructure and development tooling" /></p>
+
+### Product & Interface Engineering
+
+<p><img src="https://skillicons.dev/icons?i=tailwind,materialui,figma,html,css,vite,webpack,postman&perline=8" alt="Product and interface technologies" /></p>
+
+---
+
+## System Design Philosophy
+
+```text
+Product Intent
+     │
+     ▼
+User-Centered Interface
+     │
+     ▼
+Typed Application Layer
+     │
+     ├── AI Orchestration
+     ├── Smart Contract Integration
+     ├── API & Event Workflows
+     └── Authentication & Authorization
+     │
+     ▼
+Data, Infrastructure & Observability
+```
+
+My preferred engineering principles:
+
+- **Architecture with intent** — every abstraction should solve a real problem.
+- **Type safety across boundaries** — reduce uncertainty between UI, APIs, and data.
+- **Composable systems** — design modules that evolve without slowing the product.
+- **Secure by design** — treat permissions, validation, and key management as core architecture.
+- **Observability first** — systems should explain their behavior through useful telemetry.
+- **Progressive decentralization** — use blockchain where trust and ownership genuinely matter.
+- **Human-centered AI** — intelligent features should improve decisions, not create more friction.
+
+---
+
+## AI Engineering Interests
+
+```yaml
+ai_systems:
+  orchestration:
+    - agentic workflows
+    - tool calling
+    - structured generation
+    - multi-step reasoning pipelines
+
+  knowledge:
+    - retrieval augmented generation
+    - semantic search
+    - vector databases
+    - context engineering
+
+  reliability:
+    - output validation
+    - evaluation pipelines
+    - guardrails
+    - tracing and observability
+
+  product_layer:
+    - intelligent interfaces
+    - workflow automation
+    - human-in-the-loop systems
+    - AI-assisted developer tools
+```
+
+---
+
+## Web3 Engineering Interests
+
+```yaml
+web3:
+  application_layer:
+    - wallet authentication
+    - transaction lifecycle UX
+    - on-chain and off-chain synchronization
+    - decentralized application architecture
+
+  smart_contracts:
+    - EVM development
+    - contract composability
+    - access control
+    - upgrade and deployment strategies
+
+  security:
+    - signature verification
+    - replay protection
+    - secure key handling
+    - common smart contract vulnerabilities
+
+  research:
+    - applied cryptography
+    - account abstraction
+    - zero-knowledge systems
+    - decentralized identity
+```
+
+---
+
+## Current Direction
+
+- Building intelligent product experiences powered by modern AI workflows.
+- Exploring agentic systems that can reason, call tools, and execute structured tasks.
+- Developing deeper expertise in Rust, cryptography, and secure systems programming.
+- Studying advanced EVM patterns and scalable decentralized architectures.
+- Improving application reliability through testing, tracing, and observability.
+- Creating reusable architecture for high-performance full-stack products.
+
+---
+
+## Featured Project
+
+<div align="center">
+
+### BMD Apes Minting Platform
+
+A Web3-focused minting experience combining wallet interactions, smart contract connectivity, and a responsive product interface.
+
+<a href="https://bmd-apes-minting.web.app"><img src="https://img.shields.io/badge/Launch_Application-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" alt="Launch application" /></a>
+
+</div>
+
+---
+
+## Development Workflow
+
+```mermaid
+flowchart LR
+    A["Product Idea"] --> B["System Design"]
+    B --> C["Rapid Prototype"]
+    C --> D["Implementation"]
+    D --> E["Testing & Security"]
+    E --> F["Cloud Deployment"]
+    F --> G["Monitoring & Iteration"]
+    G --> B
+```
+
+---
+
+## GitHub Intelligence
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muddi00seven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mudassir Khan's GitHub statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muddi00seven&theme=tokyonight&hide_border=true" alt="Mudassir Khan's contribution streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddi00seven&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=muddi00seven&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</div>
+
+> GitHub language statistics represent public repository activity and do not necessarily reflect my complete technical experience.
+
+---
+
+## Beyond the Code
+
+I care about more than making software work. I care about how systems behave under pressure, how easily teams can extend them, and how naturally users can interact with them.
+
+The goal is simple:
+
+```text
+Build technology that feels advanced underneath
+and effortless on the surface.
+```
+
+---
+
+## Let's Build Something Meaningful
+
+I am interested in collaborating on ambitious products involving:
+
+- AI-powered applications and developer tools
+- Web3 platforms and decentralized experiences
+- SaaS products and cloud-native systems
+- Smart contract integrations
+- High-performance frontend applications
+- Experimental technology with real product value
+
+<div align="center">
+  <a href="https://mudassirkhan.me/"><img src="https://img.shields.io/badge/Explore_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my work" /></a>
+  <a href="https://www.linkedin.com/in/mudassir-khan-84a91415b/"><img src="https://img.shields.io/badge/Start_A_Conversation-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation" /></a>
+
+  <br /><br />
+
+  <sub>Engineered with curiosity, precision, and a bias toward shipping.</sub>
+</div>
